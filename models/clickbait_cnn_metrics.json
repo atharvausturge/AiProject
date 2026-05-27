@@ -1,0 +1,6 @@
+{
+  "test_accuracy": 0.916,
+  "test_roc_auc": 0.974,
+  "best_val_acc": 0.912,
+  "n_total": 2868
+}

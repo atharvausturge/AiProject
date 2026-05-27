@@ -1,0 +1,9 @@
+torch
+torchvision
+scikit-learn
+pandas
+pillow
+matplotlib
+streamlit
+requests
+yt-dlp
